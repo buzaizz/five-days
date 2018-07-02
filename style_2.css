@@ -1,0 +1,44 @@
+body {
+	width: 900px;
+}
+
+h3 {
+	float:left;
+	margin-right: 10px;
+	font-size:18px;
+}
+
+p {
+	float:left;
+	margin-right: 30px;
+	font-size:18px;
+}
+
+a {
+	float:left;
+	margin-right: 30px;
+	font-size:18px;
+	line-height: 55px;
+}
+
+div {
+	display: inline-block;
+	width: 600px;
+}
+
+.resume{
+	float: left;
+	width: 200px;
+	height: 900px;
+	background-color: #00ffff;
+	margin: 20px;
+}
+
+h1 {
+	color:white;
+	text-align: center;
+}
+
+.nextline {
+	clear: left;
+}

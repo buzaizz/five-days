@@ -1,0 +1,56 @@
+body {
+	width: 1000px;
+}
+
+h3 {
+	float:left;
+	margin-right: 10px;
+	font-size:18px;	
+}
+
+h2 {
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: #eee;
+	margin: 0px;
+	text-align: center;
+	line-height: 200px;
+}
+
+p {
+	float:left;
+	margin-right: 30px;
+	font-size:18px;
+}
+
+a {
+	float:left;
+	margin-right: 30px;
+	font-size:18px;
+	line-height: 55px;
+}
+
+div {
+	display: inline-block;
+	width: 770px;
+}
+
+.basic {
+	border: 1px solid #111;
+}
+
+.resume{	
+	background-color: grey;
+	border: 1px solid grey;	
+}
+
+h1 {
+	color:white;
+	margin-left: 30px;
+}
+
+.nextline {
+	float: left;
+	width: 500px;
+}
